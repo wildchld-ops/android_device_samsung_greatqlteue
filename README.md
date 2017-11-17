@@ -1,0 +1,2 @@
+# android_device_samsung_greatqlteue
+android_device_samsung_greatqlteue
