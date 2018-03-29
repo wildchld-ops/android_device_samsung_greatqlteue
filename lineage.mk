@@ -1,6 +1,6 @@
 # Inherit device configuration
 $(call inherit-product, device/samsung/greatqlteue/device_greatqlteue.mk)
-$(call inherit-product, device/samsung/msm8895-common/msm8895-common.mk)
+$(call inherit-product, device/samsung/msm8998-common/msm8998-common.mk)
 
 # Inherit from the 64 bit configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
